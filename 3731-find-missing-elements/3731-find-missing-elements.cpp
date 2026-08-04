@@ -2,19 +2,31 @@ class Solution {
 public:
     vector<int> findMissingElements(vector<int>& nums) {
 
-        sort(nums.begin(), nums.end());
+        int low = INT_MAX;
+        int high = INT_MIN;
+
+        // Find minimum and maximum
+        for (int i = 0; i < nums.size(); i++) {
+            low = min(low, nums[i]);
+            high = max(high, nums[i]);
+        }
 
         vector<int> ans;
 
-        for (int i = 0; i < nums.size() - 1; i++) {
+        // Check every number between low and high
+        for (int i = low; i <= high; i++) {
 
-            int curr = nums[i];
-            int next = nums[i + 1];
+            bool found = false;
 
-            while (curr + 1 < next) {
-                ans.push_back(curr + 1);
-                curr++;
+            for (int j = 0; j < nums.size(); j++) {
+                if (nums[j] == i) {
+                    found = true;
+                    break;
+                }
             }
+
+            if (!found)
+                ans.push_back(i);
         }
 
         return ans;
