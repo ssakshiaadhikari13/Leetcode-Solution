@@ -50,9 +50,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ssakshiaadhikari13/Leetcode-Solution/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3731-find-missing-elements](https://github.com/ssakshiaadhikari13/Leetcode-Solution/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
 | [3731-find-missing-elements](https://github.com/ssakshiaadhikari13/Leetcode-Solution/tree/master/3731-find-missing-elements) |
+## String
+|  |
+| ------- |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ssakshiaadhikari13/Leetcode-Solution/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ssakshiaadhikari13/Leetcode-Solution/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+## Counting
+|  |
+| ------- |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ssakshiaadhikari13/Leetcode-Solution/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 <!---LeetCode Topics End-->
