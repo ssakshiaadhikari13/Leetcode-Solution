@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/ssakshiaadhikari13/Leetcode-Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0486-predict-the-winner](https://github.com/ssakshiaadhikari13/Leetcode-Solution/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/ssakshiaadhikari13/Leetcode-Solution/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/ssakshiaadhikari13/Leetcode-Solution/tree/master/1406-stone-game-iii) |
@@ -63,9 +64,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/ssakshiaadhikari13/Leetcode-Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ssakshiaadhikari13/Leetcode-Solution/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Counting
 |  |
 | ------- |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ssakshiaadhikari13/Leetcode-Solution/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/ssakshiaadhikari13/Leetcode-Solution/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/ssakshiaadhikari13/Leetcode-Solution/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
