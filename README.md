@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ssakshiaadhikari13/Leetcode-Solution/tree/master/0001-two-sum) |
 | [0209-minimum-size-subarray-sum](https://github.com/ssakshiaadhikari13/Leetcode-Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0486-predict-the-winner](https://github.com/ssakshiaadhikari13/Leetcode-Solution/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/ssakshiaadhikari13/Leetcode-Solution/tree/master/0877-stone-game) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ssakshiaadhikari13/Leetcode-Solution/tree/master/0001-two-sum) |
 | [0904-fruit-into-baskets](https://github.com/ssakshiaadhikari13/Leetcode-Solution/tree/master/0904-fruit-into-baskets) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ssakshiaadhikari13/Leetcode-Solution/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3731-find-missing-elements](https://github.com/ssakshiaadhikari13/Leetcode-Solution/tree/master/3731-find-missing-elements) |
