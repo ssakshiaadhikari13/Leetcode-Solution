@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/ssakshiaadhikari13/Leetcode-Solution/tree/master/0050-powx-n) |
 | [0089-gray-code](https://github.com/ssakshiaadhikari13/Leetcode-Solution/tree/master/0089-gray-code) |
 | [0486-predict-the-winner](https://github.com/ssakshiaadhikari13/Leetcode-Solution/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/ssakshiaadhikari13/Leetcode-Solution/tree/master/0877-stone-game) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/ssakshiaadhikari13/Leetcode-Solution/tree/master/0050-powx-n) |
 | [0486-predict-the-winner](https://github.com/ssakshiaadhikari13/Leetcode-Solution/tree/master/0486-predict-the-winner) |
 | [1922-count-good-numbers](https://github.com/ssakshiaadhikari13/Leetcode-Solution/tree/master/1922-count-good-numbers) |
 ## Game Theory
