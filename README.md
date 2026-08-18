@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ssakshiaadhikari13/Leetcode-Solution/tree/master/0001-two-sum) |
 | [0209-minimum-size-subarray-sum](https://github.com/ssakshiaadhikari13/Leetcode-Solution/tree/master/0209-minimum-size-subarray-sum) |
+| [0303-range-sum-query-immutable](https://github.com/ssakshiaadhikari13/Leetcode-Solution/tree/master/0303-range-sum-query-immutable) |
 | [0486-predict-the-winner](https://github.com/ssakshiaadhikari13/Leetcode-Solution/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/ssakshiaadhikari13/Leetcode-Solution/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/ssakshiaadhikari13/Leetcode-Solution/tree/master/0904-fruit-into-baskets) |
@@ -90,8 +91,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ssakshiaadhikari13/Leetcode-Solution/tree/master/0209-minimum-size-subarray-sum) |
+| [0303-range-sum-query-immutable](https://github.com/ssakshiaadhikari13/Leetcode-Solution/tree/master/0303-range-sum-query-immutable) |
 ## Enumeration
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ssakshiaadhikari13/Leetcode-Solution/tree/master/3345-smallest-divisible-digit-product-i) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/ssakshiaadhikari13/Leetcode-Solution/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
