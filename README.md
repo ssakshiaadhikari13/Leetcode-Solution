@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/ssakshiaadhikari13/Leetcode-Solution/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/ssakshiaadhikari13/Leetcode-Solution/tree/master/0904-fruit-into-baskets) |
 | [1406-stone-game-iii](https://github.com/ssakshiaadhikari13/Leetcode-Solution/tree/master/1406-stone-game-iii) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/ssakshiaadhikari13/Leetcode-Solution/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/ssakshiaadhikari13/Leetcode-Solution/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ssakshiaadhikari13/Leetcode-Solution/tree/master/0001-two-sum) |
 | [0904-fruit-into-baskets](https://github.com/ssakshiaadhikari13/Leetcode-Solution/tree/master/0904-fruit-into-baskets) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ssakshiaadhikari13/Leetcode-Solution/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/ssakshiaadhikari13/Leetcode-Solution/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/ssakshiaadhikari13/Leetcode-Solution/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
