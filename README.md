@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ssakshiaadhikari13/Leetcode-Solution/tree/master/0001-two-sum) |
+| [0424-longest-repeating-character-replacement](https://github.com/ssakshiaadhikari13/Leetcode-Solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/ssakshiaadhikari13/Leetcode-Solution/tree/master/0904-fruit-into-baskets) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ssakshiaadhikari13/Leetcode-Solution/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ssakshiaadhikari13/Leetcode-Solution/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -72,11 +73,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/ssakshiaadhikari13/Leetcode-Solution/tree/master/0424-longest-repeating-character-replacement) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ssakshiaadhikari13/Leetcode-Solution/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Sliding Window
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ssakshiaadhikari13/Leetcode-Solution/tree/master/0209-minimum-size-subarray-sum) |
+| [0424-longest-repeating-character-replacement](https://github.com/ssakshiaadhikari13/Leetcode-Solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/ssakshiaadhikari13/Leetcode-Solution/tree/master/0904-fruit-into-baskets) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ssakshiaadhikari13/Leetcode-Solution/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Counting
