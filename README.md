@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/ssakshiaadhikari13/Leetcode-Solution/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/ssakshiaadhikari13/Leetcode-Solution/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/ssakshiaadhikari13/Leetcode-Solution/tree/master/0904-fruit-into-baskets) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ssakshiaadhikari13/Leetcode-Solution/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1406-stone-game-iii](https://github.com/ssakshiaadhikari13/Leetcode-Solution/tree/master/1406-stone-game-iii) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ssakshiaadhikari13/Leetcode-Solution/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/ssakshiaadhikari13/Leetcode-Solution/tree/master/3731-find-missing-elements) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/ssakshiaadhikari13/Leetcode-Solution/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ssakshiaadhikari13/Leetcode-Solution/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ssakshiaadhikari13/Leetcode-Solution/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ssakshiaadhikari13/Leetcode-Solution/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -137,11 +139,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/ssakshiaadhikari13/Leetcode-Solution/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ssakshiaadhikari13/Leetcode-Solution/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ssakshiaadhikari13/Leetcode-Solution/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ssakshiaadhikari13/Leetcode-Solution/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Stack
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/ssakshiaadhikari13/Leetcode-Solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ssakshiaadhikari13/Leetcode-Solution/tree/master/0145-binary-tree-postorder-traversal) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ssakshiaadhikari13/Leetcode-Solution/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -160,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/ssakshiaadhikari13/Leetcode-Solution/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ssakshiaadhikari13/Leetcode-Solution/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ssakshiaadhikari13/Leetcode-Solution/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ssakshiaadhikari13/Leetcode-Solution/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -172,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ssakshiaadhikari13/Leetcode-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ssakshiaadhikari13/Leetcode-Solution/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
