@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ssakshiaadhikari13/Leetcode-Solution/tree/master/0001-two-sum) |
+| [0208-implement-trie-prefix-tree](https://github.com/ssakshiaadhikari13/Leetcode-Solution/tree/master/0208-implement-trie-prefix-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/ssakshiaadhikari13/Leetcode-Solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/ssakshiaadhikari13/Leetcode-Solution/tree/master/0904-fruit-into-baskets) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ssakshiaadhikari13/Leetcode-Solution/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/ssakshiaadhikari13/Leetcode-Solution/tree/master/0208-implement-trie-prefix-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/ssakshiaadhikari13/Leetcode-Solution/tree/master/0424-longest-repeating-character-replacement) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ssakshiaadhikari13/Leetcode-Solution/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Sliding Window
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/ssakshiaadhikari13/Leetcode-Solution/tree/master/0208-implement-trie-prefix-tree) |
 | [0303-range-sum-query-immutable](https://github.com/ssakshiaadhikari13/Leetcode-Solution/tree/master/0303-range-sum-query-immutable) |
 ## Tree
 |  |
@@ -181,4 +184,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ssakshiaadhikari13/Leetcode-Solution/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/ssakshiaadhikari13/Leetcode-Solution/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
