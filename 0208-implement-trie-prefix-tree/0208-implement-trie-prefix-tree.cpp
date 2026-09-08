@@ -2,13 +2,13 @@ struct Node {
     Node* link[26];
     bool flag;
 
-    Node() {
-        flag = false;
+    // Node() {
+    //     flag = false;
 
-        for (int i = 0; i < 26; i++) {
-            link[i] = nullptr;
-        }
-    }
+    //     for (int i = 0; i < 26; i++) {
+    //         link[i] = nullptr;
+    //     }
+    // }
 
     void put(char ch, Node* node) {
         link[ch - 'a'] = node;
@@ -94,10 +94,3 @@ public:
  * boolean param_3 = obj.startsWith(prefix);
  */
 
-/**
- * Your Trie object will be instantiated and called as such:
- * Trie* obj = new Trie();
- * obj->insert(word);
- * bool param_2 = obj->search(word);
- * bool param_3 = obj->startsWith(prefix);
- */
