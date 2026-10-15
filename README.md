@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ssakshiaadhikari13/Leetcode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0209-minimum-size-subarray-sum](https://github.com/ssakshiaadhikari13/Leetcode-Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/ssakshiaadhikari13/Leetcode-Solution/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/ssakshiaadhikari13/Leetcode-Solution/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/ssakshiaadhikari13/Leetcode-Solution/tree/master/0303-range-sum-query-immutable) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ssakshiaadhikari13/Leetcode-Solution/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/ssakshiaadhikari13/Leetcode-Solution/tree/master/0485-max-consecutive-ones) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ssakshiaadhikari13/Leetcode-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0283-move-zeroes](https://github.com/ssakshiaadhikari13/Leetcode-Solution/tree/master/0283-move-zeroes) |
 ## Monotonic Stack
 |  |
 | ------- |
