@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ssakshiaadhikari13/Leetcode-Solution/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ssakshiaadhikari13/Leetcode-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/ssakshiaadhikari13/Leetcode-Solution/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ssakshiaadhikari13/Leetcode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0209-minimum-size-subarray-sum](https://github.com/ssakshiaadhikari13/Leetcode-Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/ssakshiaadhikari13/Leetcode-Solution/tree/master/0268-missing-number) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/ssakshiaadhikari13/Leetcode-Solution/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/ssakshiaadhikari13/Leetcode-Solution/tree/master/0268-missing-number) |
 | [3731-find-missing-elements](https://github.com/ssakshiaadhikari13/Leetcode-Solution/tree/master/3731-find-missing-elements) |
 ## String
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ssakshiaadhikari13/Leetcode-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/ssakshiaadhikari13/Leetcode-Solution/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/ssakshiaadhikari13/Leetcode-Solution/tree/master/0283-move-zeroes) |
 ## Monotonic Stack
 |  |
@@ -210,4 +213,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/ssakshiaadhikari13/Leetcode-Solution/tree/master/0173-binary-search-tree-iterator) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ssakshiaadhikari13/Leetcode-Solution/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ssakshiaadhikari13/Leetcode-Solution/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
